@@ -32,3 +32,5 @@ Seguridad de los datos:El sistema debe garantizar que el 100% de los datos perso
 Tiempo de respuesta:El sistema debe responder a 99% de las solicitudes realizadas por los usuarios en un tiempo máximo de 2 segundos para garantizar una experiencia de usuario rápida y eficiente.
 
 Disponibilidad del sistema:El sistema debe tener una disponibilidad del 99.5% durante el horario de operación de la universidad (de lunes a viernes, de 7:00 AM a 10:00 PM), con un tiempo de inactividad no mayor al 0.5% al mes.
+
+Escalabilidad del Sistema: El sistema debe ser capaz de soportar un incremento del 50% en el número de usuarios concurrentes y en el volumen de transacciones sin degradar los tiempos de respuesta definidos, permitiendo la adición de recursos de hardware (escalabilidad vertical o horizontal) de manera transparente.
